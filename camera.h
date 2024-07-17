@@ -10,9 +10,9 @@ class Camera {
 public:
     // variables
 
-    // constructor
+    Camera();
 
-    // function that shows details of Camera object
+    void showDetails();
 };
 
 #endif
