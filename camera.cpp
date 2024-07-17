@@ -1,5 +1,9 @@
 #include "camera.h"
 
-// camera constructor that sets it at origin
+Camera::Camera() {  // right-handed
+    // set camera at origin
+}
 
-// function that outputs details of Camera obj
+void Camera::showDetails() {
+    // show variable values of Cam obj
+}
