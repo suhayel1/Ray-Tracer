@@ -4,7 +4,8 @@ Originally a project that I tried to do in Java for a university course related 
 
 Still a work in progress.
 
-# Specular lighting test
+Specular lighting test
+
 ![testSpecular](https://github.com/user-attachments/assets/6103a6f2-7513-4251-987a-a67b84a026fd)
 
 # Shadow test
