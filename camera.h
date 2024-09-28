@@ -8,10 +8,11 @@
 
 class Camera {
 public:
-    // variables
+    glm::vec3 eye, u, v, n;
 
     Camera();
 
+    void showVec(glm::vec3 v);
     void showDetails();
 };
 
