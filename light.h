@@ -6,9 +6,11 @@
 
 class Light {
 public:
-    // variables
+    std::string name;
+    float pos[3];
+    float iRgb[3];
 
-    Light();
+    Light(std::string name, float pos[3], float iRgb[3]);
 
     void showDetails();
 };
