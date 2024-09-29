@@ -2,8 +2,6 @@
 
 Originally a project that I tried to do in Java for a university course related to 3D computer graphics that I'm now trying to redo in C++.
 
-Work in progress.
-
 #
 
 
